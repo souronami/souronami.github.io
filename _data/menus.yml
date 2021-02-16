@@ -1,0 +1,15 @@
+- title: home
+  url: /
+  external: false
+
+- title: archive
+  url: /archive/
+  external: false
+
+- title: about
+  url: /about/
+  external: false
+
+- title: blog
+  url: https://sourov.live
+  external: true
