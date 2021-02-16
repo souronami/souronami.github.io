@@ -5,7 +5,7 @@ description: >- # site description
 
 lang: en-US # default lang
 timezone: Asia/Dhaka # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/ogp.JPG # This image used for Open Graph more info https://ogp.me/
 repo: http://github.com/souronami/souronami.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
